@@ -1,0 +1,3 @@
+Modell,vorher_mib,nach_laden_mib,spitzenwert_mib
+FP32,45.3125,64.78125,258.671875
+Teil-INT8 (Gemm),44.421875,65.78125,258.640625

@@ -1,0 +1,13 @@
+ipykernel
+kagglehub
+matplotlib
+nbformat
+notebook
+numpy
+onnx
+onnxruntime
+pandas
+Pillow
+scikit-learn
+torch
+torchvision

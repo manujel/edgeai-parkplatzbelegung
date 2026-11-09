@@ -1,0 +1,21 @@
+nummer,ausschnittname,wahr,vorhergesagt,breite,hoehe,datum,kleinere_seite,groesse,korrekt,original_split,bildname,x,y,manuelle_bewertung,modellvorhersage,quelllabel_korrekt,modell_korrekt_manuell
+1,train_369125,1,0,22.5,42.5,2012-10-30,22.5,unter 24 px,False,train,2012-10-30_16_37_22_jpg.rf.067d34da90927e820c2cabd89014aad8.jpg,155,165,belegt,belegt,False,True
+2,train_80647,1,1,17.0,36.5,2012-10-30,17.0,unter 24 px,True,train,2012-10-30_17_37_25_jpg.rf.e7af24a62392febbaf918629079bc765.jpg,333,165,frei,frei,True,True
+3,train_155138,1,1,16.0,38.0,2012-10-30,16.0,unter 24 px,True,train,2012-10-30_17_22_25_jpg.rf.563b95958d8c73ba00aa25ae62ccf4e5.jpg,388,162,frei,frei,True,True
+4,train_331732,1,0,22.5,43.5,2012-10-30,22.5,unter 24 px,False,train,2012-10-30_16_27_22_jpg.rf.8544cdc487f6d4419c874bb923f5b430.jpg,509,276,belegt,belegt,False,True
+5,train_241183,1,0,22.5,36.5,2012-10-30,22.5,unter 24 px,False,train,2012-10-30_15_17_19_jpg.rf.b0013550757d1fca815e24ddd920afbd.jpg,213,239,belegt,belegt,False,True
+6,valid_9541,1,0,24.0,48.0,2012-10-30,24.0,24–39 px,False,valid,2012-10-30_15_52_21_jpg.rf.717818644554b557a9197eaac9605dc8.jpg,483,227,belegt,belegt,False,True
+7,train_436214,1,1,16.0,38.0,2012-10-30,16.0,unter 24 px,True,train,2012-10-30_14_27_17_jpg.rf.16a16c55701c620ce0d03b271dfd96ab.jpg,388,162,frei,frei,True,True
+8,train_184961,1,0,31.0,54.0,2012-10-30,31.0,24–39 px,False,train,2012-10-30_15_27_20_jpg.rf.946533264bde6df307568fff8761b3ba.jpg,223,370,belegt,belegt,False,True
+9,train_80657,1,1,23.0,40.0,2012-10-30,23.0,unter 24 px,True,train,2012-10-30_17_37_25_jpg.rf.e7af24a62392febbaf918629079bc765.jpg,511,156,frei,frei,True,True
+10,train_448791,1,1,16.5,41.0,2012-10-30,16.5,unter 24 px,True,train,2012-10-30_15_37_20_jpg.rf.1cdab515a1efe8c45264d3bcaae2f54c.jpg,267,166,frei,frei,True,True
+11,test_38976,1,0,17.0,41.0,2012-11-07,17.0,unter 24 px,False,test,2012-11-07_10_09_27_jpg.rf.8ef3cdaf0ef3c2c28fe1814b8d7bd568.jpg,283,164,belegt,belegt,False,True
+12,train_82323,1,0,21.0,45.5,2012-11-07,21.0,unter 24 px,False,train,2012-11-07_19_04_54_jpg.rf.e87430bff4da6cfea2c507f27c02a0cd.jpg,322,277,belegt,belegt,False,True
+13,train_375709,1,0,23.5,52.5,2012-11-07,23.5,unter 24 px,False,train,2012-11-07_10_04_27_jpg.rf.edbfca22fce67a99f09a13ccea0e284d.jpg,405,374,belegt,belegt,False,True
+14,valid_39233,1,0,24.0,48.0,2012-11-07,24.0,24–39 px,False,valid,2012-11-07_12_34_35_jpg.rf.a9c59d8debbf4c5cbc1ac6e06208d810.jpg,483,227,belegt,belegt,False,True
+15,train_436576,1,1,33.0,53.5,2012-11-07,33.0,24–39 px,True,train,2012-11-07_14_14_40_jpg.rf.16aff013c20ffc18adbfa27930f219ad.jpg,231,451,frei,frei,True,True
+16,valid_60230,1,0,21.0,47.0,2012-11-07,21.0,unter 24 px,False,valid,2012-11-07_12_14_34_jpg.rf.ced0e96db98807ed5b718093431f7637.jpg,467,275,belegt,belegt,False,True
+17,train_82310,1,0,21.5,45.5,2012-11-07,21.5,unter 24 px,False,train,2012-11-07_19_04_54_jpg.rf.e87430bff4da6cfea2c507f27c02a0cd.jpg,505,227,belegt,belegt,False,True
+18,train_287072,1,0,22.5,43.5,2012-11-07,22.5,unter 24 px,False,train,2012-11-07_11_14_31_jpg.rf.6c6e480463443d4638bc7ee7ad15d710.jpg,509,276,belegt,belegt,False,True
+19,train_66508,1,0,26.0,57.0,2012-11-07,26.0,24–39 px,False,train,2012-11-07_10_44_29_jpg.rf.e0ac7dcb96a3ddc70ebc4344180c39ad.jpg,476,372,belegt,belegt,False,True
+20,train_495875,1,0,27.0,52.5,2012-11-07,27.0,24–39 px,False,train,2012-11-07_15_19_43_jpg.rf.35e20168b036bc2d33b12d344c81ba12.jpg,452,374,belegt,belegt,False,True
